@@ -71,3 +71,20 @@
 
 
 A simple 3D block with a hole (extruded rectangle + circle cut).
+
+<div align="center">
+  <figure>
+    <img src="Image/d1front.png" alt="Toy Cube Front" width="400">
+    <figcaption style="display: block; text-align: center;">Front of the toy cube</figcaption>
+  </figure>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <figure>
+    <img src="Images/d1back.png" alt="Toy Cube Back" width="400">
+    <figcaption style="display: block; text-align: center;">Back of the toy cube</figcaption>
+  </figure>
+</div>
