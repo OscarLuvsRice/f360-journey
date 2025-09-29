@@ -3,62 +3,68 @@
 **Fusion 360 Interface**
 
 
-Navigating the workspace (toolbar, browser, view cube).
+   -Navigating the workspace (toolbar, browser, view cube).
 
 
-Difference between Design workspace vs others (Render, Manufacture, etc.).
+   -Difference between Design workspace vs others (Render, Manufacture, etc.).
 
-
-
+<br>
+<br>
 
 **Sketching Basics**
 
 
-Starting a new 2D sketch on a plane.
+   -Starting a new 2D sketch on a plane.
 
 
-Drawing simple shapes (rectangle, circle).
+   -Drawing simple shapes (rectangle, circle).
 
 
-Using constraints (e.g., horizontal/vertical, equal, coincident).
+   -Using constraints (e.g., horizontal/vertical, equal, coincident).
 
 
-Adding dimensions with the dimension tool to control size.
+   -Adding dimensions with the dimension tool to control size.
 
 
+   -Using reference lines to assit sketches.
 
+<br>
+<br>
 
 **3D Features**
 
 
-Converting a 2D sketch into 3D using the Extrude tool.
+   -Converting a 2D sketch into 3D using the Extrude tool.
 
 
-Adjusting distance, direction, and operation (New Body vs Join).
+   -Adjusting distance, direction, and operation (New Body vs Join).
 
-
+<br>
+<br>
 
 
 **Navigation Controls**
 
 
-Orbit (middle mouse + shift), pan, zoom.
+   -Orbit (middle mouse + shift), pan, zoom.
 
 
-Using the view cube to look at the model from different angles.
+   -Using the view cube to look at the model from different angles.
 
-
+<br>
+<br>
 
 
 **Saving & Managing Files**
 
 
-How Fusion 360 automatically saves to the cloud.
+   -How Fusion 360 automatically saves to the cloud.
 
 
-Naming and organizing projects.
+   -Naming and organizing projects.
 
-
+<br>
+<br>
 
 
 🛠️ **What I Built**
