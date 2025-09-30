@@ -26,7 +26,7 @@
    -Adding dimensions with the dimension tool to control size.
 
 
-   -Using reference lines to assit sketches.
+   -Using reference lines to assist sketches.
 
 <br>
 <br>
