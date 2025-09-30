@@ -13,8 +13,7 @@
 
 **Create a Fit Point Spline**
 
-
-  
+  -Enables the ability to sketch line with curvatures.
 
 <br>
 <br>
