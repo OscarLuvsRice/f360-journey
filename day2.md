@@ -1,68 +1,64 @@
-📝 What I Learned
+#📝 I learned...
+
+**Insert Reference Image**
 
 
-Fusion 360 Interface
+   -Enrich the ability to reverse engineer CAD designs.
 
 
-Navigating the workspace (toolbar, browser, view cube).
+   -Making easier to match real life dimensions.
+
+<br>
+<br>
+
+**Create a Fit Point Spline**
 
 
-Difference between Design workspace vs others (Render, Manufacture, etc.).
+  
+
+<br>
+<br>
+
+**The Revolve Feature**
 
 
+   -Converting a 2D sketch into 3D shape by integrating around the x y z axis.
 
 
-Sketching Basics
+<br>
+<br>
 
 
-Starting a new 2D sketch on a plane.
+**Horizontal/Vertical Constraints**
 
 
-Drawing simple shapes (rectangle, circle).
+   -Allows smooth connection of lines.
 
 
-Using constraints (e.g., horizontal/vertical, equal, coincident).
+<br>
+<br>
 
 
-Adding dimensions with the dimension tool to control size.
+**Inserting Appearance of Real Life Material**
 
 
+   -Gains the ability to to see what the design looks like in real life.
 
 
-3D Features
+<br>
+<br>
 
 
-Converting a 2D sketch into 3D using the Extrude tool.
+🛠️ **What I Built**
 
 
-Adjusting distance, direction, and operation (New Body vs Join).
+A simple soda bottle, used to shell feature as well to make the inside hollow.
+
+<div align="center">
+  <figure>
+    <img src="Image/d2front.png" alt="Soda Bottle Front" width="500">
+    <figcaption style="display: block; text-align: center;">FInal product of the soda bottle</figcaption>
+  </figure>
+</div>
 
 
-
-
-Navigation Controls
-
-
-Orbit (middle mouse + shift), pan, zoom.
-
-
-Using the view cube to look at the model from different angles.
-
-
-
-
-Saving & Managing Files
-
-
-How Fusion 360 automatically saves to the cloud.
-
-
-Naming and organizing projects.
-
-
-
-
-🛠️ What I Built
-
-
-A simple 3D block with a hole (extruded rectangle + circle cut).
