@@ -24,7 +24,9 @@
    - allow easier sketch mirroring
  <br>
  <br>
+ 
 **Mirror sketch**
+
    - It is in the name, it mirrors your sketches, just make sure you are picking the right axis. In this case it's the Z axis.
    
 
@@ -32,7 +34,9 @@
 
 <br>
 <br>
+
 **Thread**
+
    - It's in the name, nothing much to say.
 <br>
 <br>
