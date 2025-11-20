@@ -46,7 +46,7 @@ A Ice Cube Tray
 
 <div align="center">
   <figure>
-    <img src="Image/tray.png" alt="Ice Cube Tray" width="500">
+    <img src="Image/d5.png" alt="Ice Cube Tray" width="500">
     <figcaption style="display: block; text-align: center;">Final product of the Ice Cube Tray.</figcaption>
   </figure>
 </div>
