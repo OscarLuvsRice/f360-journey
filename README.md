@@ -23,3 +23,8 @@ This is used to record my F360 learning journey (I have the personal use licence
 <br>
 <br>
 [DAY 5](day5.md)
+<br>
+<br>
+<br>
+<br>
+[DAY 6](day6.md)
