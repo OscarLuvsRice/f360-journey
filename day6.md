@@ -44,7 +44,7 @@
 🛠️ **What I designed**
 
 
-A Ice Cube Tray
+A Hex Nut
 
 <div align="center">
   <figure>
