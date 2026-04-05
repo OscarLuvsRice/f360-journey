@@ -48,3 +48,5 @@ This is used to record my F360 learning journey (I have the personal use licence
 <br>
 <br>
 [DAY 10](day10.md)
+
+So I realised that you master something through constant practise and real life experience, so im going to stop updating this and instead focusing on more projects.
